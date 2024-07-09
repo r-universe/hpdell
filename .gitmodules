@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "hgwrr"]
 	path = hgwrr
-	url = https://github.com/cran/hgwrr
+	url = https://github.com/hpdell/hgwrr
